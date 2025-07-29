@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Divyanshi12Rawat
 - 👀 I’m interested in machine learning...
 - 🌱 I’m currently learning data analytics...
+- 📬 Reach out: [divyanshirawat824@gmail.com]
 .
 
 <!---
